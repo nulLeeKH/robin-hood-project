@@ -3,7 +3,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/nulLeeKH/robin-hood-project.svg)
 
 # robin-hood-project
-An open source project that includes various archery tools
+An open source project that developing various archery tools for archer
 
 ## Tools
 
